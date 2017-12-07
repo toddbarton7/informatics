@@ -1716,6 +1716,16 @@ body {
 .cid-qChFY0Ffvc {
   background-image: url("../../../assets/images/pexels-photo-428340-2-2000x669.jpg");
 }
+.cid-qChFY0Ffvc H1 {
+  text-align: center;
+}
+.cid-qChFY0Ffvc U {
+  color: #149dcc;
+}
+.cid-qChFY0Ffvc .mbr-text,
+.cid-qChFY0Ffvc .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-qCWRtPIYOI {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2013,7 +2023,7 @@ body {
   }
 }
 .cid-qChIqVkNfw {
-  background-image: url("../../../assets/images/033.jpg");
+  background-image: url("../../../assets/images/031.jpg");
 }
 .cid-qChIqVkNfw .icons-media-container {
   display: flex;
